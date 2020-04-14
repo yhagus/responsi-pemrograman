@@ -1,0 +1,13 @@
+D:\Cloud Storage\OneDrive - STMIK AMIKOM Yogyakarta\AMIKOM UNIVERSITY\Kumpulan tugas\Semester 2\Pemrograman - Praktikum\ResponsiPemrograman2679\bin\Debug\netcoreapp3.1\ResponsiPemrograman2679.exe
+D:\Cloud Storage\OneDrive - STMIK AMIKOM Yogyakarta\AMIKOM UNIVERSITY\Kumpulan tugas\Semester 2\Pemrograman - Praktikum\ResponsiPemrograman2679\bin\Debug\netcoreapp3.1\ResponsiPemrograman2679.deps.json
+D:\Cloud Storage\OneDrive - STMIK AMIKOM Yogyakarta\AMIKOM UNIVERSITY\Kumpulan tugas\Semester 2\Pemrograman - Praktikum\ResponsiPemrograman2679\bin\Debug\netcoreapp3.1\ResponsiPemrograman2679.runtimeconfig.json
+D:\Cloud Storage\OneDrive - STMIK AMIKOM Yogyakarta\AMIKOM UNIVERSITY\Kumpulan tugas\Semester 2\Pemrograman - Praktikum\ResponsiPemrograman2679\bin\Debug\netcoreapp3.1\ResponsiPemrograman2679.runtimeconfig.dev.json
+D:\Cloud Storage\OneDrive - STMIK AMIKOM Yogyakarta\AMIKOM UNIVERSITY\Kumpulan tugas\Semester 2\Pemrograman - Praktikum\ResponsiPemrograman2679\bin\Debug\netcoreapp3.1\ResponsiPemrograman2679.dll
+D:\Cloud Storage\OneDrive - STMIK AMIKOM Yogyakarta\AMIKOM UNIVERSITY\Kumpulan tugas\Semester 2\Pemrograman - Praktikum\ResponsiPemrograman2679\bin\Debug\netcoreapp3.1\ResponsiPemrograman2679.pdb
+D:\Cloud Storage\OneDrive - STMIK AMIKOM Yogyakarta\AMIKOM UNIVERSITY\Kumpulan tugas\Semester 2\Pemrograman - Praktikum\ResponsiPemrograman2679\obj\Debug\netcoreapp3.1\ResponsiPemrograman2679.csprojAssemblyReference.cache
+D:\Cloud Storage\OneDrive - STMIK AMIKOM Yogyakarta\AMIKOM UNIVERSITY\Kumpulan tugas\Semester 2\Pemrograman - Praktikum\ResponsiPemrograman2679\obj\Debug\netcoreapp3.1\ResponsiPemrograman2679.csproj.CoreCompileInputs.cache
+D:\Cloud Storage\OneDrive - STMIK AMIKOM Yogyakarta\AMIKOM UNIVERSITY\Kumpulan tugas\Semester 2\Pemrograman - Praktikum\ResponsiPemrograman2679\obj\Debug\netcoreapp3.1\ResponsiPemrograman2679.AssemblyInfoInputs.cache
+D:\Cloud Storage\OneDrive - STMIK AMIKOM Yogyakarta\AMIKOM UNIVERSITY\Kumpulan tugas\Semester 2\Pemrograman - Praktikum\ResponsiPemrograman2679\obj\Debug\netcoreapp3.1\ResponsiPemrograman2679.AssemblyInfo.cs
+D:\Cloud Storage\OneDrive - STMIK AMIKOM Yogyakarta\AMIKOM UNIVERSITY\Kumpulan tugas\Semester 2\Pemrograman - Praktikum\ResponsiPemrograman2679\obj\Debug\netcoreapp3.1\ResponsiPemrograman2679.dll
+D:\Cloud Storage\OneDrive - STMIK AMIKOM Yogyakarta\AMIKOM UNIVERSITY\Kumpulan tugas\Semester 2\Pemrograman - Praktikum\ResponsiPemrograman2679\obj\Debug\netcoreapp3.1\ResponsiPemrograman2679.pdb
+D:\Cloud Storage\OneDrive - STMIK AMIKOM Yogyakarta\AMIKOM UNIVERSITY\Kumpulan tugas\Semester 2\Pemrograman - Praktikum\ResponsiPemrograman2679\obj\Debug\netcoreapp3.1\ResponsiPemrograman2679.genruntimeconfig.cache
