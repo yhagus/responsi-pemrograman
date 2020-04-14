@@ -46,7 +46,7 @@ namespace ResponsiPemrograman2679
             Karyawan karyawan2 = new Karyawan("19112677", "sugab", 3000000);
             karyawan2.getKaryawan();
 
-            Console.WriteLine("\n\nNIK/Nama\t\t\tGaji bulanan\n------------------------------------------------");
+            Console.WriteLine("\nAsyiiik gaji 10%\n\nNIK/Nama\t\t\tGaji bulanan\n------------------------------------------------");
             karyawan.newGaji = 10;
             karyawan.getGajiBaru();
 
