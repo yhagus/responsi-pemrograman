@@ -47,10 +47,10 @@ namespace ResponsiPemrograman2679
             karyawan2.getKaryawan();
 
             Console.WriteLine("\nAsyiiik gaji 10%\n\nNIK/Nama\t\t\tGaji bulanan\n------------------------------------------------");
-            karyawan.newGaji = 0.1; //20%
+            karyawan.newGaji = 0.1; //
             karyawan.getGajiBaru();
 
-            karyawan2.newGaji = 0.1; //30%
+            karyawan2.newGaji = 0.1; //
             karyawan2.getGajiBaru();
         }
     }
