@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Cloud Storage\\OneDrive - STMIK AMIKOM Yogyakarta\\AMIKOM UNIVERSITY\\Kumpulan tugas\\Semester 2\\Pemrograman - Praktikum\\ResponsiPemrograman2679\\ResponsiPemrograman2679.csproj",
+      "projectUniqueName": "D:\\Cloud Storage\\OneDrive - STMIK AMIKOM Yogyakarta\\AMIKOM UNIVERSITY\\Kumpulan tugas\\Semester 2\\Pemrograman - Praktikum\\responsi-pemrograman\\ResponsiPemrograman2679.csproj",
       "projectName": "ResponsiPemrograman2679",
-      "projectPath": "D:\\Cloud Storage\\OneDrive - STMIK AMIKOM Yogyakarta\\AMIKOM UNIVERSITY\\Kumpulan tugas\\Semester 2\\Pemrograman - Praktikum\\ResponsiPemrograman2679\\ResponsiPemrograman2679.csproj",
+      "projectPath": "D:\\Cloud Storage\\OneDrive - STMIK AMIKOM Yogyakarta\\AMIKOM UNIVERSITY\\Kumpulan tugas\\Semester 2\\Pemrograman - Praktikum\\responsi-pemrograman\\ResponsiPemrograman2679.csproj",
       "packagesPath": "C:\\Users\\bagusp\\.nuget\\packages\\",
-      "outputPath": "D:\\Cloud Storage\\OneDrive - STMIK AMIKOM Yogyakarta\\AMIKOM UNIVERSITY\\Kumpulan tugas\\Semester 2\\Pemrograman - Praktikum\\ResponsiPemrograman2679\\obj\\",
+      "outputPath": "D:\\Cloud Storage\\OneDrive - STMIK AMIKOM Yogyakarta\\AMIKOM UNIVERSITY\\Kumpulan tugas\\Semester 2\\Pemrograman - Praktikum\\responsi-pemrograman\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bagusp\\AppData\\Roaming\\NuGet\\NuGet.Config",

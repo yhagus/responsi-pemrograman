@@ -8,7 +8,7 @@ namespace ResponsiPemrograman2679
         public string Nik { set; get; }
         public string Nama { set; get; }
         public int GajiBulanan { set; get; }
-        public int newGaji { set; get; }
+        public double newGaji { set; get; }
 
         public Karyawan(string newNik, string newNama, int newGajiBulanan)
         {
@@ -23,8 +23,8 @@ namespace ResponsiPemrograman2679
 
         public void getGajiBaru()
         {
-            int bonusGaji = GajiBulanan / newGaji;
-            GajiBulanan = GajiBulanan + bonusGaji;
+            double bonusGaji = Convert.ToDouble(GajiBulanan * newGaji);
+            GajiBulanan = GajiBulanan + Convert.ToInt32(bonusGaji);
             Console.WriteLine("{0} {1}\t\t\t{2}", Nik, Nama, GajiBulanan);
         }
 
@@ -47,10 +47,10 @@ namespace ResponsiPemrograman2679
             karyawan2.getKaryawan();
 
             Console.WriteLine("\nAsyiiik gaji 10%\n\nNIK/Nama\t\t\tGaji bulanan\n------------------------------------------------");
-            karyawan.newGaji = 10;
+            karyawan.newGaji = 0.1; //20%
             karyawan.getGajiBaru();
 
-            karyawan2.newGaji = 10;
+            karyawan2.newGaji = 0.1; //30%
             karyawan2.getGajiBaru();
         }
     }
